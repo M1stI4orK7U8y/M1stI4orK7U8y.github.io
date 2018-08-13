@@ -1,8 +1,8 @@
 ---
 layout: default
-img: dog.png
+url: https://youtu.be/9RZD5QLCpEk
 category: Collections
-title: 3D Device Mockups<br>by PSDCovers
+title: Voidify - A tool for accessing free wifi
 description: |
 ---
   Turn your 2D designs into high quality, 3D
