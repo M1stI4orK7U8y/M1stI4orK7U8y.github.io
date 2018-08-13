@@ -1,6 +1,6 @@
 ---
 layout: default
-url: https://youtu.be/9a8JMeCLgPg
+video: https://youtu.be/9a8JMeCLgPg
 category: Collections
 title: NUTN Library APP
 description: |

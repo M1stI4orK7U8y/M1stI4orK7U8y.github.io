@@ -1,6 +1,6 @@
 ---
 layout: default
-url: https://youtu.be/9RZD5QLCpEk
+video: https://youtu.be/9RZD5QLCpEk
 category: Collections
 title: Voidify - A tool for accessing free wifi
 description: |

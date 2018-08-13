@@ -1,6 +1,6 @@
 ---
 layout: default
-url: https://youtu.be/zS94MZBjviU
+video: https://youtu.be/zS94MZBjviU
 category: Collections
 title: Simple Implement of BlockChain by Golang
 description: |
