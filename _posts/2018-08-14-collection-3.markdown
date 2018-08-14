@@ -5,4 +5,4 @@ category: Collections
 title: NUTN Library APP
 description: |
 ---
-Provide "News", "Collection Search", "Lending Record", "New Acquisitions News", "Service Time", "Contact", "Lending Rule", and "Suggest New Acquisitions" features for NUTN library users. Let users get news and look for infomation every time and every where.
+Provide convenient features for NUTN library users such as "News", "Collection Search", "Lending Record", "New Acquisitions News", and so on. . Let users get news and look for infomation every time and every where.
