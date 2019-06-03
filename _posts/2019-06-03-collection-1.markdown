@@ -1,6 +1,6 @@
 ---
 layout: default
-cover: https://gitlab.com/packtumi9722/huanhuanhuei/raw/master/architecture.png
+cover: https://i.imgur.com/1owyeqI.png
 category: Collections
 title: HuanHuanHuei ( digital token exchanger )
 description: |
