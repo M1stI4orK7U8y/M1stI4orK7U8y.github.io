@@ -1,8 +1,8 @@
 ---
 layout: default
-video: https://www.youtube.com/embed/ojf0-Luoeq4
+video: https://www.youtube.com/embed/owr3gt8TO6k
 category: Collections
 title: HuanHuanHuei ( digital token exchanger )
 description: |
 ---
-Provide convenient features, such as "News", "Collection Search", "Lending Record", "New Acquisitions News", and so on, for NUTN library users. Let users get news and look for infomation every time and every where.
+A token exchanger can exchage between each two tokens. (Only btc and eth now)
