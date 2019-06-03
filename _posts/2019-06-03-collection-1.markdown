@@ -5,4 +5,5 @@ category: Collections
 title: HuanHuanHuei ( digital token exchanger )
 description: |
 ---
-A token exchanger can exchage between each two tokens. (Only btc and eth now)
+This [HuanHuanHuei](https://github.com/M1stI4orK7U8y/HuanHuanHuei) is token exchanger can exchage between each two tokens. (Only btc and eth now)
+Reference exrate api: coingecko api
