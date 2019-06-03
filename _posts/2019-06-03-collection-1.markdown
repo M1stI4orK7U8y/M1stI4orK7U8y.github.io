@@ -1,6 +1,6 @@
 ---
 layout: default
-cover: https://i.imgur.com/xuxlZh9.png
+video: https://i.imgur.com/xuxlZh9.png
 category: Collections
 title: HuanHuanHuei ( digital token exchanger )
 description: |
