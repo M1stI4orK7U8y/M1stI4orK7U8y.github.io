@@ -1,6 +1,6 @@
 ---
 layout: default
-video: https://www.youtube.com/embed/K3M3gSz7u3g
+video: https://www.youtube.com/embed/ojf0-Luoeq4
 category: Collections
 title: HuanHuanHuei ( digital token exchanger )
 description: |
