@@ -8,10 +8,11 @@ description: |
 This [HuanHuanHuei](https://github.com/M1stI4orK7U8y/HuanHuanHuei) is token exchanger can exchage between each two tokens. (Only btc and eth now)
 
 --------------------------------------------------------------------
-Developmant:
-* External API in [go-chi](https://github.com/go-chi/chi)  
-* Internal communication in [GRPC](https://github.com/protocolbuffers/protobuf)  
-* Interact with ethereum by [go-ethereun](https://github.com/ethereum/go-ethereum)  
+Developmant: Golang
+* External restful API in [go-chi](https://github.com/go-chi/chi)  
+* Internal communication in [GRPC](https://github.com/grpc/grpc)  
+* Type definition in [Protobuf](https://github.com/protocolbuffers/protobuf)
+* Interacting with ethereum by [go-ethereum](https://github.com/ethereum/go-ethereum)  
 * Database using [boltDB](https://github.com/boltdb/bolt)  
 * Ethereum test network using [Ganache](https://truffleframework.com/ganache)
-* Reference exrate api: [coingecko api](https://www.coingecko.com/en/api)
+* Exrate api reference: [coingecko api](https://www.coingecko.com/en/api)

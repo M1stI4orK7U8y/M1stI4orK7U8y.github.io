@@ -6,3 +6,8 @@ title: Voidify - A plan makes login free wifi insensibly
 description: |
 ---
 This app will login the free wifi automatically while you passing by those spots. Welcome to visit our [Facebook fan page](https://www.facebook.com/voidify/) and [Google Play page](https://play.google.com/store/apps/details?id=net.voidify.sashimi).
+
+--------------------------------------------------------------------
+Developmant: Android APP with Native Java
+* Observable framework in [RxJava](https://github.com/ReactiveX/RxJava)  
+* HTTP client in [OkHttp](https://square.github.io/okhttp/)
