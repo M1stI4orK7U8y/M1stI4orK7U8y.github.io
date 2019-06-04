@@ -5,7 +5,7 @@ category: Collections
 title: HuanHuanHuei - A digital token exchanger
 description: |
 ---
-This [HuanHuanHuei](https://github.com/M1stI4orK7U8y/HuanHuanHuei) is a token exchanger can exchage between each two tokens. (Only BTC and ETH for now)
+This [HuanHuanHuei](https://github.com/M1stI4orK7U8y/HuanHuanHuei) is a token exchanger can exchage between two tokens. (Only BTC and ETH for now)
 
 --------------------------------------------------------------------
 Developmant: Golang
