@@ -13,4 +13,5 @@ Developmant:
 * Internal communication in [GRPC](https://github.com/protocolbuffers/protobuf)  
 * Interact with ethereum by [go-ethereun](https://github.com/ethereum/go-ethereum)  
 * Database using [boltDB](https://github.com/boltdb/bolt)  
+* Ethereum test network using [Ganache](https://truffleframework.com/ganache)
 * Reference exrate api: [coingecko api](https://www.coingecko.com/en/api)
