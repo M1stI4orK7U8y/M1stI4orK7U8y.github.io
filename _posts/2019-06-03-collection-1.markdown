@@ -16,3 +16,4 @@ Developmant: Golang
 * Database using [boltDB](https://github.com/boltdb/bolt)  
 * Ethereum test network using [Ganache](https://truffleframework.com/ganache)
 * Exrate api reference: [coingecko api](https://www.coingecko.com/en/api)
+* ETCD Library: [etcd-agency](https://gitlab.com/packtumi9722/etcd-agency)
